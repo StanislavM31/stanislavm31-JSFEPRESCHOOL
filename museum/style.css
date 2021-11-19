@@ -418,8 +418,11 @@ ul li:first-child {
   border-radius: 50%;
   box-sizing: border-box;
   border: 9px solid #FFFFFF;
+  opacity: 0.7;
 }
-
+.video-block-icon-play-wraper:hover{
+  opacity: 1;
+}
 .video-block-icon-play-wraper img{
   position: relative;
   left: 12px;
