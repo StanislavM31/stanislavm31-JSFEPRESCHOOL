@@ -1,2 +1,3 @@
-# stanislavm31-JSFEPRESCHOOL
-Private repository for @stanislavm31
+_the site of the Louvre museum... unfortunately, not adaptive yet :)_
+***
+https://stanislavm31.github.io/stanislavm31-JSFEPRESCHOOL/museum/
