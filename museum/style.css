@@ -54,6 +54,9 @@ a{
 ul li{
   list-style: none;
 }
+ul>li>a:hover{
+  color: #9D8665;
+}
 body{
     width: 1920px;
     display: flex;
@@ -120,6 +123,7 @@ nav > ul > li{
 .header-container-logo ul li{
    margin-left: -0.25em;
 }
+
 ul li:first-child { 
   margin-left: 0;
 }
