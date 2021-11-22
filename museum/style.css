@@ -625,7 +625,7 @@ p.senior{
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  
+  margin-bottom: 75px;
 }
 
 .contacts-container-adress-heading{
@@ -637,9 +637,7 @@ p.senior{
   letter-spacing: 0em;
   text-align: left;
 }
-.contacts-container-adress-text {
- 
-}
+
 .contacts-container-adress-text{
   margin-top: 20px;
   font-family: Roboto;
