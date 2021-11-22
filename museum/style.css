@@ -739,11 +739,22 @@ footer{
   
 }
 .footer-socials-icons{
-  
-  border: 1px solid #666666;
+  border: 1px solid #666666; 
   border-radius: 50%;
   box-sizing: border-box;
- 
   height: 48px;
   width: 48px;
 }
+.footer-socials-icons:hover{
+  border-color: #9D8665 ;
+}
+
+.footer-socials-icons:hover{
+  filter: drop-shadow( 0px 0px 0px #666666);
+}
+.footer-socials-icons:hover .icon {
+  fill: #9D8665;
+}
+/* img[alt="Image alt"] {
+  display: none;
+} */
