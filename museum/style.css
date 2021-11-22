@@ -638,10 +638,15 @@ p.senior{
   text-align: left;
 }
 .contacts-container-adress-text {
-  margin-top: 36px;
+ 
 }
-.contacts-container-adress-text ~ p{
+.contacts-container-adress-text{
   margin-top: 20px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 26px;
   border: 1px solid springgreen;
 }
 .contacts-container-map{
