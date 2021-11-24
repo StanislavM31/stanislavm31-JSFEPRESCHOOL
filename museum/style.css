@@ -635,6 +635,7 @@ p.senior{
   font-weight: 500;
   line-height: 33px;
   letter-spacing: 0em;
+  color: #030303;
   text-align: left;
 }
 
@@ -645,6 +646,7 @@ p.senior{
   font-weight: 300;
   font-size: 22px;
   line-height: 26px;
+  color: #030303;
   border: 1px solid springgreen;
 }
 .contacts-container-map{
