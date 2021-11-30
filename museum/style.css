@@ -179,7 +179,9 @@ ul li:first-child {
   border-radius: 10px;
   margin-top: 76px;
 }
-
+.button:hover{
+  background-color: #9D8665;
+}
 .welcome-right-block{
   /* width: 705px; */
   width: 1215px;
