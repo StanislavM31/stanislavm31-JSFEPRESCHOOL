@@ -80,11 +80,12 @@ header .container{
 .header-container-logo{
   display: flex;
   flex-direction: row;
-  
+  align-items: center;
 }
 .header-container-logo img{
-  position: relative;
-  bottom: 4px;
+  
+  width: 49px;
+  height: 26px;
 }
 .logo{
   /* margin-left: 240px; */
